@@ -5,6 +5,10 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+	<h3>Welcome to DASH-meet Where collaboration meets speed and speed meets collaboration
+ </h3>
+	<img src="logo.png"  width="200"
+     height="50">
      <form action="login.php" method="post">
      	<h2>LOGIN</h2>
      	<?php if (isset($_GET['error'])) { ?>

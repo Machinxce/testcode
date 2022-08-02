@@ -1,5 +1,5 @@
 body {
-	background: #1690A7;
+	background: #cad2c5;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -73,7 +73,11 @@ h1 {
 	text-align: center;
 	color: #fff;
 }
-
+h3 {
+	text-decoration-style: times;
+	text-align:center;
+	color:#000;
+}
 .ca {
 	font-size: 14px;
 	display: inline-block;
@@ -83,4 +87,13 @@ h1 {
 }
 .ca:hover {
 	text-decoration: underline;
-} 
+}
+
+
+.logoutbtn{
+	text-decoration: none;
+	color: #white;
+	font-size: 5px;
+
+
+}
